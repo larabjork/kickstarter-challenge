@@ -11,7 +11,7 @@ Louise requested further analysis of the same data set, to better understand:
 * the relationship between goal size and campaign outcome, for plays (as a subset of theater campaigns)
 
 ## Analysis and Challenges
-All analyses were conducted using Microsoft Excel for Mac (version 16.64). The data set, which covers Kickstarters launched from 2009 through 2017, is available here: INSERT EXCEL LINK [filename](path)
+All analyses were conducted using Microsoft Excel for Mac (version 16.64). The data set, which covers Kickstarters launched from 2009 through 2017, is available here: [Kickstarter_Challenge_final](https://github.com/larabjork/kickstarter-challenge/blob/main/Kickstarter_Challenge_final.xlsx)
 
 ### Analysis of Outcomes Based on Launch Date
 To better understand the effect of launch timing, I selected all theater-related campaign data. I then compared campaign outcome (whether successful, failed, or canceled) to the month of campaign's launch, as summarized in the chart below.
