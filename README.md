@@ -16,7 +16,7 @@ All analyses were conducted using Microsoft Excel for Mac (version 16.64). The d
 ### Analysis of Outcomes Based on Launch Date
 To better understand the effect of launch timing, I selected all theater-related campaign data. I then compared campaign outcome (whether successful, failed, or canceled) to the month of campaign's launch, as summarized in the chart below.
 
-![line chart comparing campaign outcome with month of campaign launch ](https://github.com/larabjork/kickstarter-challenge/blob/main/Resources/Outcomes_vs_Goals.png)
+![line chart comparing campaign outcome with month of campaign launch ](https://github.com/larabjork/kickstarter-challenge/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To better understand the relationship between the campaign outcome and the campaign's goal, I selected all play-related campaign data. To simplify the presentation, I grouped data about goal amounts in $5,000 intervals, up to $50,000. I further broke up the lowest category into two intervals: goals of less than $1,000 and goals of $1,000 to $4,999.
